@@ -21,7 +21,7 @@
         android:layout_below="@+id/image"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="50dp"
-        android:text="INVERT PHOTO" />
+        android:text="INVERT IMAGE" />
 
     <Button
         android:id="@+id/btn_filter"
@@ -31,7 +31,7 @@
         android:layout_toRightOf="@+id/btn_invert"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="50dp"
-        android:text="FILTER PHOTO" />
+        android:text="FILTER IMAGE" />
 
     <Button
         android:id="@+id/btn_save"
@@ -40,7 +40,7 @@
         android:layout_marginLeft="80dp"
         android:layout_below="@+id/btn_invert"
         android:layout_marginTop="20dp"
-        android:text="Save"/>
+        android:text="SAVE"/>
 
     <Button
         android:id="@+id/btn_back"
